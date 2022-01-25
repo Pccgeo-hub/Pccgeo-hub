@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pccgeo-hub
-- 👀 I’m interested in GIS and Remote sensing
-- 🌱 I’m currently learning Spatial data analytics
-- 💞️ I’m looking to collaborate on GIS projects
+- 👀 
+- 🌱 
+- 💞️ 
 - 📫 How to reach me ...
 
 <!---
